@@ -1,2 +1,2 @@
 # npcSim
-A goal oriented NPC decision making libary/demo
+A goal oriented NPC decision making library/demo
